@@ -29,3 +29,6 @@ Operador de concatenação +
 
 ## Estrutura de Repetição
 - While
+
+## Condicionais
+- Switch
