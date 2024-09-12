@@ -26,3 +26,6 @@ Apresentar os dados
 ## Operadores
 Operadores de atribuição de valor =
 Operador de concatenação +
+
+## Estrutura de Repetição
+- While
