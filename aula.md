@@ -1,10 +1,10 @@
 ## Terminal
-Defini o terminal pelo Git Bash
+- Defini o terminal pelo Git Bash
 
 ## Fases da Solução de um problema
-Coletar os dados
-Processar os dados
-Apresentar os dados
+- Coletar os dados
+- Processar os dados
+- Apresentar os dados
 
 ## Destaques
 - Usa-se (//) para fazer comentários no código do JS
@@ -25,15 +25,20 @@ Apresentar os dados
 - {} -> Novo escopo;
 
 ## Operadores
-Operadores de atribuição de valor =
-Operador de concatenação +
+- Operadores de atribuição de valor =
+- Operador de concatenação +
+- Operadores de comparação == != <= >= <>
 
 ## Estrutura de Repetição
 - While
 
 ## Condicionais
 - Switch
+- if/else
 
 ## Módulos em Node.js:
-Importação de módulos (require, CommonJS)
-Biblioteca 'inquirer'
+- Importação de módulos (require, CommonJS)
+- Biblioteca 'inquirer'
+
+## Programação assíncrona e Promises
+- Uso de função assíncronas (async/await)
