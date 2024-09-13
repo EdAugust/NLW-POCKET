@@ -1,7 +1,7 @@
-- Criar metas;
-- Listar metas:
+- [V] Criar metas;
+- [V] Listar metas:
   - Metas concluidas;
   - Metas em aberto;
-- Marcar e desmarcar as concluídas;
+- [V] Marcar e desmarcar as concluídas;
 - Remover metas;
 - Sistema de mensagem;
