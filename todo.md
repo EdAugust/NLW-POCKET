@@ -3,5 +3,5 @@
   - Metas concluidas;
   - Metas em aberto;
 - [V] Marcar e desmarcar as concluídas;
-- Remover metas;
-- Sistema de mensagem;
+- [V] Remover metas;
+- [V] Sistema de mensagem;
