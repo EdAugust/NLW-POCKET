@@ -12,7 +12,9 @@
 - Array ([]) é uma lista que contém algum dado
 - Todo objeto tem uma atribuição e um valor
 - Existem palavras reservadas que não podem ser usadas, por exemplo, let, function e etc
-- usa-se -> 'npm install "nome do pacote"' no terminal para baixar um pacote do Node
+- Usa-se -> 'npm install "nome do pacote"' no terminal para baixar um pacote do Node
+- JSON -> Java Script Object Notation
+- FS -> File System
 
 ## Tipos de dados
 - Strings (textos): "" '' `` 
